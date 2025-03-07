@@ -80,3 +80,4 @@
 📌 Schedule follow-up session for deep-dive based on feedback.
 
 ---
+The Github has been updated with the Markdown files that I update using Obsedian.
